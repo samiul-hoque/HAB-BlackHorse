@@ -80,11 +80,11 @@ I built a **Yagi antenna** out of copper rod and PVC sheet. We were travelling b
 <table>
   <tr>
     <td width="50%"><img src="Images/resized/Yagi.jpg" alt="The hand-built Yagi antenna made from copper rod and PVC sheet, mounted on a tripod" width="100%"></td>
-    <td width="50%"><img src="Images/resized/onboard_cam.jpg" alt="The team on the ground holding the Black Horse payload and the Bangladeshi flag" width="100%"></td>
+    <td width="50%"><img src="Images/resized/onboard_cam.jpg" alt="The launch team on the ground with the Black Horse payload and the Bangladeshi flag" width="100%"></td>
   </tr>
   <tr>
     <td align="center"><sub>Hand-built Yagi antenna (copper rod + PVC), on the ground station tripod</sub></td>
-    <td align="center"><sub>The team and the recovered payload</sub></td>
+    <td align="center"><sub>The launch team — me (centre) with the payload and the flag</sub></td>
   </tr>
 </table>
 
